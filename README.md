@@ -1,6 +1,6 @@
 # That_One_Nerd
 
-Hey everyone! I'm Kyle, and I program games for a hobby. I'm currently working on Arcade Maniac as my main project, but I've got other hobbys too, like making a website and working on another, *secret* game.
+Hey everyone! I'm Kyle, and I program games for a hobby. I'm currently working on Arcade Maniac as my main project, but I've got other hobbys too, like making a website and working on another, *[secret](https://youtu.be/KVMNJAwnl9w)* game.
 
 I have a [Discord]() server that you can join if you feel like chilling. I release announcements and teasers there sometimes. I release my games on [Itch](https://that-one-nerd.itch.io).
 
