@@ -6,4 +6,4 @@ I have a [Discord]() server that you can join if you feel like chilling. I relea
 
 Also, I wasn't kidding about the [website](https://thatonenerd.net).
 
-Well, anyways, this is my github page. You get to see the bunch of projects that either didn't work out, or I stopped working on *cough cough* ~~Nerd-STF, Nerd's Teaser Bot~~ *cough cough*. But on the other hand, maybe you're here for Arcade Maniac, or other projects that I'm working on. Whatever the case, enjoy your stay!
+Well, anyways, this is my github page. You get to see the bunch of projects that either didn't work out, or I stopped working on *cough cough* ~~Nerd's Teaser Bot~~ *cough cough*. But on the other hand, maybe you're here for Arcade Maniac, or other projects that I'm working on. Whatever the case, enjoy your stay!
